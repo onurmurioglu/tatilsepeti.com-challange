@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982833884695",
+    "project_id": "sap-notification-32676",
+    "storage_bucket": "sap-notification-32676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982833884695:android:7d831a46ea74b790c37652",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUaOUbdcCLzzX6Kawkm2an73vNdgRfLPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

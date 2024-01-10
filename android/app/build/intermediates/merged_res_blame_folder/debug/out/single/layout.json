@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.awesomeproject.app-mergeDebugResources-37:/layout/my_widget.xml",
+        "source": "com.awesomeproject.app-main-40:/layout/my_widget.xml"
+    }
+]
