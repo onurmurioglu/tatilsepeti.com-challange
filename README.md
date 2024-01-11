@@ -1,3 +1,9 @@
+*****
+
+Proje ana ekranında Flashlist içerisinde API 'den alınan JSON verileri listelenmiştir. Infinity scroll yapısı kullanılarak lazy loading ve pagination oluşturulmuştur.
+
+*****
+
 tatilsepeti.com Challange App preview:
 
 
